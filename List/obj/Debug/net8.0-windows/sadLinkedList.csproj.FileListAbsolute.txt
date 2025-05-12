@@ -1,0 +1,16 @@
+C:\Users\furka\source\repos\sadLinkedList\bin\Debug\net8.0-windows\sadLinkedList.exe
+C:\Users\furka\source\repos\sadLinkedList\bin\Debug\net8.0-windows\sadLinkedList.deps.json
+C:\Users\furka\source\repos\sadLinkedList\bin\Debug\net8.0-windows\sadLinkedList.runtimeconfig.json
+C:\Users\furka\source\repos\sadLinkedList\bin\Debug\net8.0-windows\sadLinkedList.dll
+C:\Users\furka\source\repos\sadLinkedList\bin\Debug\net8.0-windows\sadLinkedList.pdb
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.formScreen.resources
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.AssemblyInfo.cs
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.dll
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\refint\sadLinkedList.dll
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.pdb
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\sadLinkedList.genruntimeconfig.cache
+C:\Users\furka\source\repos\sadLinkedList\obj\Debug\net8.0-windows\ref\sadLinkedList.dll
